@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NewsKT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recent_news_fragment">Recent News fragment</string>
+    <string name="saved_news_fragment">Saved News fragment</string>
+    <string name="search_news_fragment">Search News fragment</string>
 </resources>
